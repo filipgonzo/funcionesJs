@@ -24,7 +24,7 @@ ele.addEventListener("click", function() {
 
 function pintar(ele, color='green'){
     //ele = document.getElementById("ele1")
-    ele.style.backgroundColor = 'color'
+    ele.style.backgroundColor = color
 }
 ele = document.getElementById("ele1")
 ele.addEventListener("click", function() {
